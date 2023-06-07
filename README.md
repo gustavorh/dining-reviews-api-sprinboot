@@ -8,7 +8,7 @@ Cada puntaje individual será el promedio de todos los puntajes enviados para es
 
 Un restaurant también tendrá un puntaje general, que será el promedio de todos los puntajes enviados en todas las categorias. Posteriormente, un usuario puede buscar restaurants en función de estos puntajes.
 
-La aplicación se ejecutará en la ruta `localhost:8080` y el endpoint inicial es `/plants`.
+La aplicación se ejecutará en la ruta `localhost:8080` y el endpoint inicial es `/users`.
 
 ### Endpoints
 - #### `/users` [POST]
